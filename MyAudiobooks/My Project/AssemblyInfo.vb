@@ -8,10 +8,10 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("MyAudiobooks")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("MyAudiobooks")>
+<Assembly: AssemblyTitle("My Audiobooks")>
+<Assembly: AssemblyDescription("Views my list of audiobooks and optionally allows an audiobook to be marked as read.")>
+<Assembly: AssemblyCompany("BobbleSoft")>
+<Assembly: AssemblyProduct("My Audiobooks")>
 <Assembly: AssemblyCopyright("Copyright ©  2018")>
 <Assembly: AssemblyTrademark("")>
 
